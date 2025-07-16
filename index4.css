@@ -1,0 +1,15 @@
+ div{border: 11px solid lightblue;
+            margin-top: 100px;
+        margin-right: 300px;
+    margin-bottom: 100px;
+margin-left:300px;
+padding: 20px;
+}
+p{
+    margin: auto;
+    padding: 20px;
+border: 1px solid rgb(3, 3, 220);
+
+background-color: rgb(209, 209, 238);
+text-align: center;
+color: rgb(216, 4, 4);}

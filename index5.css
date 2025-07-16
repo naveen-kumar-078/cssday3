@@ -1,0 +1,17 @@
+div{width:300px;
+ border:1px solid red;
+ margin:auto;
+ padding: 10px;
+text-align: center; 
+outline: 5px inset green;}
+.box1{
+  margin-bottom: 50px;
+  height: 100px;
+  background: lightblue;
+}
+
+.box2{
+  margin-top: 30px;
+  height: 100px;
+  background: lightgreen;
+}
